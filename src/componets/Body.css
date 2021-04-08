@@ -1,0 +1,80 @@
+
+.Body{
+list-style-type: none;
+height: 100%;
+background-color: #F9F9F9;
+}
+.select option{
+    color: #622EE5;
+    font-weight: bolder;
+}
+.select{
+    color:#622EE5;
+    height: 20px;
+    background-color: white;
+    border-style: none;
+    border-bottom: #F9F9F9;  
+    font-weight: bolder;
+}
+.saldo{
+Width :100%;
+height: 100%;
+background-color:  #F9F9F9;
+padding-left: 6rem;
+display:grid;
+width: 100%;
+border-radius: 5px;
+box-shadow: 0 1px 3px -2px #9098A9;
+cursor: pointer;
+
+}
+.saldo a{
+    text-decoration: none;
+    color: #622EE5;
+    font-size: 30px;
+    width: 100%;
+    display:flex;
+    justify-content:start;
+    align-items:center;
+    padding: 10px 50px 10px 10px ;
+}
+    
+.saldo ul{
+    list-style-type: none;
+    
+}
+.saldo li{
+    display: flexbox;
+    float: left;
+    margin: 10px;
+    
+}
+
+
+.botoes{
+    padding-left: 6rem;
+    Width :401px;
+    height: 401px;
+    background-color:  #F9F9F9;
+    
+}
+.botoes a{
+    list-style-type: none;
+}
+.botao{
+    background-color: #6e0feb;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 50px;
+    justify-content: space-around;
+    cursor: pointer;
+    
+  }
+ 
+
+  
+
